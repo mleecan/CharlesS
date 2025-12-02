@@ -50,5 +50,3 @@ INFO:     127.0.0.1:56799 - "POST /healthcheck HTTP/1.1" 200 OK
 https://www.onlinewebtoolkit.com/base64-to-image-converter
 Copy and Paste to see the graph_image_base64 : 
 
-https://www.onlinewebtoolkit.com/base64-to-image-converter
-Copy and Paste to see the graph
