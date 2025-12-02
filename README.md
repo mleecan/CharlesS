@@ -32,7 +32,7 @@ Use the following JSON body for the sample DAG you provided:
     }
 }
 
-# System Health Check Complete (Time: 0.19s) ---
+# System Health Check Complete (Time: 0.19s) 
 Component            Status     Details
 ------------------------------------------------------------
 API Gateway          UP         OK
