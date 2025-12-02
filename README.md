@@ -3,6 +3,7 @@ Python version 3.10.0 Web API Testbed
 
 # Create the Env name cenv 
 D:\DC\Charles>conda create -p cenv python==3.10.0
+
 D:\DC\Udemy\AgentRAG>conda activate cenv\
 
 # Run the necessary libaries for cenv
