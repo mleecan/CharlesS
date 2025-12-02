@@ -47,6 +47,7 @@ User Interface       UP         OK
 INFO:     127.0.0.1:56799 - "POST /healthcheck HTTP/1.1" 200 OK
 
 # Check the graph
+From output file - response_1764696434726.json
 https://www.onlinewebtoolkit.com/base64-to-image-converter
 Copy and Paste to see the graph_image_base64 : 
 
